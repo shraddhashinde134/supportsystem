@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "aaaru",
+      "email": "aa@gmail.com",
+      "password": "123",
+      "role": "techsupport",
+      "id": "3cd7"
+    },
+    {
+      "id": "69e2",
+      "name": "shraddha",
+      "email": "shraddha@gmail.com",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": "daa1",
+      "name": "tina",
+      "email": "tina@gmail.com",
+      "password": "123",
+      "role": "techsupport"
+    },
+    {
+      "name": "shruti",
+      "email": "shrutika@gmail.com",
+      "password": "123",
+      "role": "techsupport",
+      "id": "668b"
+    },
+    {
+      "id": "bb43",
+      "name": "user",
+      "email": "user@gmail.com",
+      "password": "user",
+      "role": "user"
+    },
+    {
+      "id": "154f",
+      "name": "sangram",
+      "email": "sangram@gmail.com",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": "7876",
+      "name": "aaru",
+      "email": "aaru@gmail.com",
+      "password": "123",
+      "role": "user"
+    }
+  ],
+  "tickets": [
+    {
+      "problem": "laptop screen problem",
+      "type": "Pending",
+      "id": "9662",
+      "techsupportid": "daa1"
+    },
+    {
+      "problem": "screen black",
+      "type": "Resolve",
+      "userid": "69e2",
+      "techsupportid": 0,
+      "id": "7638"
+    }
+  ]
+}
