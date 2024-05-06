@@ -112,7 +112,7 @@ function sendTicket(e){
       userid:userId,
       techsupportid:ticket.techsupportid
   }
-    if(userId!==null ){
+    if(id===null  && userId!==null  ){
    
     console.log('sending data',senddata);
     console.log('id',userId);

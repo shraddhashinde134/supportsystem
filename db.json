@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "name": "aaaru",
-      "email": "aa@gmail.com",
+      "name": "aaru",
+      "email": "sunny@gmail.com",
       "password": "123",
       "role": "techsupport",
       "id": "3cd7"
@@ -15,20 +15,6 @@
       "role": "admin"
     },
     {
-      "id": "daa1",
-      "name": "tina",
-      "email": "tina@gmail.com",
-      "password": "123",
-      "role": "techsupport"
-    },
-    {
-      "name": "shruti",
-      "email": "shrutika@gmail.com",
-      "password": "123",
-      "role": "techsupport",
-      "id": "668b"
-    },
-    {
       "id": "bb43",
       "name": "user",
       "email": "user@gmail.com",
@@ -36,26 +22,31 @@
       "role": "user"
     },
     {
-      "id": "154f",
-      "name": "sangram",
-      "email": "sangram@gmail.com",
+      "id": "c6e8",
+      "name": "tina",
+      "email": "tinaa@gmail.com",
       "password": "123",
-      "role": "admin"
-    },
-    {
-      "id": "7876",
-      "name": "aaru",
-      "email": "aaru@gmail.com",
-      "password": "123",
-      "role": "user"
+      "role": "techsupport"
     }
   ],
   "tickets": [
     {
       "problem": "laptop screen problem",
+      "type": "Process",
+      "techsupportid": "daa1",
+      "id": "9662"
+    },
+    {
+      "problem": "screen black",
+      "type": "Process",
+      "techsupportid": "3cd7",
+      "id": "2c4b"
+    },
+    {
+      "problem": "network slow",
       "type": "Pending",
-      "id": "9662",
-      "techsupportid": "daa1"
+      "userid": "b9a9",
+      "id": "bd33"
     }
   ]
 }
